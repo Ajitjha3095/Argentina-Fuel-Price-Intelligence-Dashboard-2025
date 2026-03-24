@@ -107,6 +107,7 @@ Project Goal
 The goal of this project is to demonstrate how business intelligence tools can be used to understand pricing behavior, market trends, and revenue performance in the fuel industry.
 
 Author
+
 Ajit Jha
 Data Analyst | Power BI | Tableau | SQL | Data Visualization
 https://ajitjha.netlify.app/
