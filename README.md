@@ -9,15 +9,15 @@ The objective of the project is to transform raw fuel market data into executive
 Professional analytics platforms such as Tableau and Looker are widely used by organizations to convert data into strategic decisions, and this project demonstrates those real-world skills.
 
 Live Dashboards
-Tableau Public Dashboard
+Tableau Public Dashboard 
 
-You can explore the fully interactive dashboard here:
+You can explore the fully interactive dashboard here: https://public.tableau.com/app/profile/ajit.jha/viz/ArgentinaFuelPriceIntelligenceDashboard/Story1?publish=yes
 
 View Tableau Dashboard (Interactive)
 
 Looker Studio Dashboard
 
-You can explore the Google Looker Studio version here:
+You can explore the Google Looker Studio version here:https://lookerstudio.google.com/reporting/d1398b75-b66d-483a-a621-2a680e2fd2e8/page/gvWpF
 
 View Looker Studio Dashboard (Interactive)
 
